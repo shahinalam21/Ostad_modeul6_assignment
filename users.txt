@@ -1,0 +1,11 @@
+[{"id":"653f8aeec9121","username":"shahin","email":"shahinalamas21@gmail.com","password":"$2y$10$d.ApV7xx.gBeeDTdPYJSHuUogH.87vDgaDhWM.dB4wbWxVYllnhBu","role":"admin"},
+
+{"id":"653f8b0590278","username":"kalam","email":"kalam@gmail.com","password":"$2y$10$qHQZYmo.wrBY34Pya9KVZuqi2PsIlKDiNdqhdM3q2o.u4cc.PPJvu","role":"user"},
+
+{"id":"653f8b26a0d19","username":"manik","email":"manik@gmail.com","password":"$2y$10$MBjx.rv02l1E9IQo5mhnWuUXareBLflJmzD6hjF9oQmv9fK7E9XeK","role":"admin"},
+
+{"id":"653fb04684e1f","username":"mahamud","email":"mahamud@gmail.com","password":"$2y$10$1QlNMXNqy6Vvlqoh4lfnQuNbRFNg05tpRxCjN6Z\/7HzMBJzByWIq6","role":"admin"},
+
+{"id":"653fb8267e67d","username":"nur","email":"nur@gmail.com","password":"$2y$10$8DjdmE4wcZ5A1O4YKLWOBO6ZU5mz5kMo8rwC.xsPW8Y5laRiNF9A2","role":"manager"},
+
+{"id":"653fc4b27d9b9","username":"shahin alam","email":"shahinalamshuvo2017@gmail.com","password":"$2y$10$UJF8ZWJZfgC3fkZURa3UYutPpvwwNTbwTLOwmMdYIziVDmTfJcFG6","role":"user"}]
